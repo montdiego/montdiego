@@ -7,16 +7,16 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <h2>Programming Languages</h2></br> 
+  <p>Programming Languages</p></br> 
   <img src="https://skillicons.dev/icons?i=cpp,javascript,python"><br>
-  <h2>Frontend Development</h2></br> 
+   <p>Frontend Development</p></br> 
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,nextjs"><br>
-  <h2>Backend Development</h2></br> 
+   <p>Backend Development</p></br> 
   <img src="https://skillicons.dev/icons?i=nodejs"><br>
-  <h2>Database</h2></br> 
+   <p>Database</p></br> 
   <img src="https://skillicons.dev/icons?i=mongodb,mysql"><br>
-  <h2>Devops</h2></br> 
+   <p>Devops</p></br> 
   <img src="https://skillicons.dev/icons?i=docker,bash"><br>
-  <h2>Other</h2></br> 
+   <p>Other</p></br> 
   <img src="https://skillicons.dev/icons?i=arduino,linux,git"><br>
 </p>
